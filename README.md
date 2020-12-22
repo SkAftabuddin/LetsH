@@ -7,5 +7,5 @@ Minimum Requirements:
 Windows
 To use this you have to first download it.Then use XAMP to launch it in chrome.
 It smoothly works in chrome and mozilla firefox.
-
+First page is Page1.php
 
