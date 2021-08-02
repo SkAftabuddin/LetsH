@@ -63,7 +63,7 @@ function noBack() { window.history.forward(); }
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Admin Login</title>
 </head>
-<body oncontextmenu="return false;">
+<body>
 <form name="f1" method="post" action="adminlogin.jsp">
 
 <header class="h" style="border-radius:15px;"><br><br><div class="logo">
