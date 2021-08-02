@@ -315,7 +315,7 @@ function noBack() { window.history.forward(); }
 <title>ONLINE EXAMINATION</title>
 </head>
 
-<body oncontextmenu="return false;" >
+<body>
 
 
 
