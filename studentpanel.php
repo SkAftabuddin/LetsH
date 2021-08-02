@@ -67,7 +67,7 @@ function noBack() { window.history.forward(); }
 <meta charset="ISO-8859-1">
 <title>Student panel</title>
 </head>
-<body oncontextmenu="return false;">
+<body >
   <header class="h" style="border-radius:15px;">
 <br><div class="logo">
         <img src="images/do.jpg">
