@@ -67,7 +67,7 @@ border-radius:12px;
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Student Login</title>
 </head>
-<body oncontextmenu="return false;">
+<body>
 
 <header class="h" style="border-radius: 15px">
 	
