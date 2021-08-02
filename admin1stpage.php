@@ -57,7 +57,7 @@ function noBack() { window.history.forward(); }
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
 <title>Admin 1st page</title>
 </head>
-<body oncontextmenu="return false;">
+<body>
 <form action="admin1stpage.php" method="post">
 <header class="h" style="border-radius:15px;">
 	<br>
